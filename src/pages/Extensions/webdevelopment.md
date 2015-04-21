@@ -46,7 +46,7 @@ JSLint.NET is a wrapper for Douglas Crockford's JSLint, the JavaScript code qual
 ## Bootstrap Snippet Pack
 The ultimate snippet pack for web developers who use the Twitter Bootstrap framework.
 
-- [Download Bootstrap Snippet Pack](https://visualstudiogallery.msdn.microsoft.com/ede12aa8-0f80-4e6f-b15c-7a8b3499370e)
+- [Download Bootstrap Snippet Pack](https://visualstudiogallery.msdn.microsoft.com/e82e7862-f731-4183-a27a-3a44b261bfe5)
 - [Bootstrap Snippet Pack on GitHub](https://github.com/elebetsamer/bootstrap-snippets-visual-studio/)
 
 ## DocStubJs
